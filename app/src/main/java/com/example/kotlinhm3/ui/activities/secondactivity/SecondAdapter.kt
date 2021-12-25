@@ -1,4 +1,4 @@
-package com.example.kotlinhm3.ui.activities
+package com.example.kotlinhm3.ui.activities.secondactivity
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

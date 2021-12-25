@@ -1,4 +1,4 @@
-package com.example.kotlinhm3.ui.activities
+package com.example.kotlinhm3.ui.activities.mainactivity
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -8,6 +8,7 @@ import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import com.example.kotlinhm3.databinding.ActivityMainBinding
 import com.example.kotlinhm3.models.Pictures
+import com.example.kotlinhm3.ui.activities.secondactivity.SecondActivity
 
 class MainActivity : AppCompatActivity(){
 

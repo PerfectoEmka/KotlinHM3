@@ -1,4 +1,4 @@
-package com.example.kotlinhm3.ui.activities
+package com.example.kotlinhm3.ui.activities.secondactivity
 
 import android.app.Activity
 import android.content.Intent

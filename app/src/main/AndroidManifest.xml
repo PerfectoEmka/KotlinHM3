@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinHM3">
         <activity
-            android:name=".ui.activities.SecondActivity"
+            android:name=".ui.activities.secondactivity.SecondActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.activities.MainActivity"
+            android:name=".ui.activities.mainactivity.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
